@@ -38,10 +38,10 @@ Tech Stack
   3. Run the project.
   4. Open in the browser- http://localhost/health_db/index.php
 
-  Future Enhancements-
-  1.AI-driven content moderation – Automatically detect spam, inappropriate content, or misleading health information. \n
-  2.Like & share features – Users can like posts and share on social media. \n
-  3.Notifications system – Alert users when someone comments on their post or replies to their comment. \n
+  Future Enhancements-  
+  1.AI-driven content moderation – Automatically detect spam, inappropriate content, or misleading health information.   
+  2.Like & share features – Users can like posts and share on social media.   
+  3.Notifications system – Alert users when someone comments on their post or replies to their comment. 
   
 
   
