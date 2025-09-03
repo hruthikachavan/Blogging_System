@@ -32,5 +32,17 @@ Tech Stack
 
   6.View Blog- ![view blog](assets/view_blog.png)
 
+  Installation and Setup-
+  1. Clone this repositary in xammp/htdocs folder.
+  2. First create database health_db.sql in phpmyadmin and then mport the health_db.sql file in that database.
+  3. Run the project.
+  4. Open in the browser- http://localhost/health_db/index.php
+
+  Future Enhancements-
+  AI-driven content moderation – Automatically detect spam, inappropriate content, or misleading health information.
+  Like & share features – Users can like posts and share on social media.
+  Notifications system – Alert users when someone comments on their post or replies to their comment.
+  
+
   
 
