@@ -39,9 +39,9 @@ Tech Stack
   4. Open in the browser- http://localhost/health_db/index.php
 
   Future Enhancements-
-  AI-driven content moderation – Automatically detect spam, inappropriate content, or misleading health information.
-  Like & share features – Users can like posts and share on social media.
-  Notifications system – Alert users when someone comments on their post or replies to their comment.
+  1.AI-driven content moderation – Automatically detect spam, inappropriate content, or misleading health information.
+  2.Like & share features – Users can like posts and share on social media.
+  3.Notifications system – Alert users when someone comments on their post or replies to their comment.
   
 
   
