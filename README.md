@@ -20,7 +20,7 @@ Tech Stack
 
   ScreenShots-
 
-  1.Home page-
+  1.Home page- ![Homepage](assets/home_page.png)
 
   
 
