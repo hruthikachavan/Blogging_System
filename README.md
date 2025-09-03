@@ -1,10 +1,10 @@
 # Blogging_System
 
-Blogging System for Healthcare
+Blogging System for Healthcare-
 A simple PHP & MySQL blogging platform designed for sharing healthcare-related blogs.  
 Registered users can create posts, comment, and interact in a secure environment. 
 
- Features  
+ # Features  
 - User registration & login (authentication)  
 - Create, edit, and delete blog posts  
 - Comment system for discussions  
@@ -12,13 +12,13 @@ Registered users can create posts, comment, and interact in a secure environment
 - Database-driven with MySQL integration  
 - Secure session management
 
-Tech Stack  
+# Tech Stack  
 - Frontend: HTML, CSS, JavaScript  
 - Backend PHP  
 - Database MySQL  
 - Server Apache/XAMPP
 
-  ScreenShots-
+  # ScreenShots-
 
   1.Home page- ![Homepage](assets/home_page.png)
 
@@ -32,13 +32,13 @@ Tech Stack
 
   6.View Blog- ![view blog](assets/view_blog.png)
 
-  Installation and Setup-
+  # Installation and Setup-
   1. Clone this repositary in xammp/htdocs folder.
   2. First create database health_db.sql in phpmyadmin and then mport the health_db.sql file in that database.
   3. Run the project.
   4. Open in the browser- http://localhost/health_db/index.php
 
-  Future Enhancements-  
+  # Future Enhancements-  
   1.AI-driven content moderation – Automatically detect spam, inappropriate content, or misleading health information.   
   2.Like & share features – Users can like posts and share on social media.   
   3.Notifications system – Alert users when someone comments on their post or replies to their comment. 
