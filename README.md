@@ -22,5 +22,15 @@ Tech Stack
 
   1.Home page- ![Homepage](assets/home_page.png)
 
+  2.Add Blog Page- ![Add Blog](assets/add_blog.png)
+
+  3.Blog Category- ![Blog Category](assets/blog_category.png)
+
+  4.Login Page- ![Login Page](assets/login.png)
+
+  5.Registration Page- ![register Page](assets/register.png)
+
+  6.View Blog- ![view blog](assets/view_blog.png)
+
   
 
